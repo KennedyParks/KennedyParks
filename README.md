@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=KennedyParks&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  Hi there!
+  Hi there! I'm Kennedy.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJkODM4NjIyYjI5NjRmZDEzMThmMjJkMGRhNDY1ZDVhZGExYWVmZCZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -27,7 +27,7 @@ I am a developer and designer studying web design & development at the Universit
 
 - :zap: I love working on personal projects and learning new frameworks.
 
-- :mailbox:You can reach me here!: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-p-570860133/)
+- :mailbox: You can reach me here!: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kennedy-p-570860133/)
 
 ---
 
