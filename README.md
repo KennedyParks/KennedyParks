@@ -44,6 +44,6 @@ I am a developer and designer studying web design & development at the Universit
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KennedyParks&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KennedyParks&theme=gruvbox)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyParks&layout=demo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
